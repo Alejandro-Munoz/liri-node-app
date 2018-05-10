@@ -38,9 +38,9 @@ When the Movie-this command is executed, you will be presented with information 
 
 ## My-tweets Command
 
-The Manager View provides you with the following choices.
+When the My-tweets command is executed, you will be presented with your tweets.
 
-![manager choices](images/for_readme/manager_choices.png)
+![liri_my_tweets](images/for_readme/liri_my_tweets.png)
 
 
 ## Spotify-this-song Command

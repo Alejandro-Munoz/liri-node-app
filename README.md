@@ -28,7 +28,7 @@ Then, to run the applicaton run:
 
 After executing `node liri command + value`, depending on command you will be presented with a list of items relative of command + value.
 
-![index image](images/for_readme/node_index.png)
+![index image](images/for_readme/node_liri.png)
 
 ## Movie-this Command
 

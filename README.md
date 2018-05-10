@@ -28,22 +28,13 @@ Then, to run the applicaton run:
 
 After executing `node liri command + value`, depending on command you will be presented with a list of items relative of command + value.
 
-![index image](images/for_readme/node_liri.png)
+![node_liri](images/for_readme/node_liri.png)
 
 ## Movie-this Command
 
-When the Customer view is selected, you will be presented with a table of all the items currently for sale.
+When the Movie-this command is executed, you will be presented with information about the movie passed in as value.
 
-![customer enter id](images/for_readme/customer_enterID.png)
-
-After entering a valid item ID, you will be asked to provide the amount to purchase.
-
-![customer_enter_qty](images/for_readme/customer_validID.png)
-
-If the store has enough inventory on hand to complete your order, you will be presented with an order summary.
-
-![customer order summary](images/for_readme/customer_successfulOrder.png)
-
+![customer enter id](images/for_readme/liri_movie_this.png)
 
 ## My-tweets Command
 

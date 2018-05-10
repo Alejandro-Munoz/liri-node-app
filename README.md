@@ -45,8 +45,8 @@ When the My-tweets command is executed, you will be presented with your tweets.
 
 ## Spotify-this-song Command
 
-The Supervisor view allows you the following options.
+When the Spotify-this-song command is executed, you will be presented with information about the song passed in as value.
 
-![supervisor choices](images/for_readme/supervisor_choices.png)
+![liri_spotify](images/for_readme/liri_spotify.png)
 
 
